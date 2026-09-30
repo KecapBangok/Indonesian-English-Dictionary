@@ -1,0 +1,512 @@
+A001#Abjad#Alphabet#Aksara#Letters#Kumpulan huruf berdasarkan urutan lazim dalam bahasa.
+A002#Adil#Fair#Seimbang#Just#Bersikap tidak memihak.
+A003#Air#Water#Cairan#Liquid#Zat cair yang penting untuk kehidupan.
+A004#Ajak#Invite#Undang#Call#Meminta seseorang ikut serta.
+A005#Akses#Access#Masuk#Entry#Hak atau cara untuk menggunakan sesuatu.
+A006#Aksi#Action#Tindakan#Act#Perbuatan nyata.
+A007#Aksioma#Axiom#Postulat#Principle#Pernyataan dasar yang diterima tanpa pembuktian.
+A008#Akur#Agree#Sepakat#Consent#Tidak berselisih.
+A009#Alam#Nature#Lingkungan#Environment#Segala sesuatu di bumi yang bukan buatan manusia.
+A010#Alas#Base#Dasar#Bottom#Tempat untuk meletakkan sesuatu.
+A011#Aman#Safe#Selamat#Secure#Tidak berbahaya.
+A012#Aneh#Weird#Janggal#Odd#Tidak biasa atau ganjil.
+A013#Api#Fire#Kobaran#Flame#Panas dan cahaya dari pembakaran.
+A014#Arah#Direction#Tujuan#Course#Petunjuk jalan atau tujuan.
+A015#Aroma#Aroma#Bau#Scent#Bau yang tercium, bisa sedap atau tidak.
+A016#Asam#Sour#Masam#Tart#Rasa tajam pada lidah.
+A017#Asap#Smoke#Kepulan#Fume#Partikel hasil pembakaran di udara.
+A018#Asli#Original#Autentik#Authentic#Bukan tiruan.
+A019#Awan#Cloud#Mendung#Overcast#Kumpulan uap air di langit.
+A020#Ayam#Chicken#Unggas#Poultry#Jenis unggas yang sering diternakkan.
+B001#Baju#Shirt#Pakaian#Clothes#Penutup tubuh bagian atas.
+B002#Bakar#Burn#Hangus#Scorch#Proses membara karena api.
+B003#Banjir#Flood#Luber#Overflow#Air melimpah dari saluran normal.
+B004#Batu#Stone#Kerikil#Rock#Mineral padat dari bumi.
+B005#Beli#Buy#Membeli#Purchase#Menukar uang dengan barang.
+B006#Berani#Brave#Gagah#Courageous#Tidak takut menghadapi bahaya.
+B007#Berat#Heavy#Beban#Weighty#Memiliki massa besar.
+B008#Beri#Give#Kasih#Offer#Memberikan sesuatu ke orang lain.
+B009#Bersih#Clean#Rapi#Neat#Tanpa kotoran.
+B010#Bersinar#Shine#Berpijar#Glow#Mengeluarkan cahaya.
+B011#Besi#Iron#Logam#Metal#Unsur logam keras.
+B012#Biru#Blue#Langit#Azure#Warna seperti langit cerah.
+B013#Bising#Noisy#Ribut#Loud#Bersuara mengganggu.
+B014#Bola#Ball#Bulat#Sphere#Benda bulat untuk permainan.
+B015#Buah#Fruit#Hasil#Produce#Bagian tumbuhan yang bisa dimakan.
+B016#Buku#Book#Kitab#Tome#Kumpulan lembaran tulisan.
+B017#Bulan#Moon#Rembulan#Lunar#Satelit alami bumi.
+B018#Bunga#Flower#Kembang#Blossom#Bagian tanaman yang berwarna-warni.
+B019#Bunuh#Kill#Hapus nyawa#Slay#Mengakhiri hidup.
+B020#Bunyi#Sound#Suara#Noise#Getaran yang terdengar.
+C001#Cair#Liquid#Leleh#Fluid#Berwujud cair.
+C002#Cairan#Fluid#Zat cair#Liquid#Benda tidak padat atau gas.
+C003#Canda#Joke#Lelucon#Humor#Kata lucu untuk tawa.
+C004#Canda tawa#Laughter#Tertawa#Giggling#Ekspresi bahagia dengan suara.
+C005#Cat#Paint#Warna#Pigment#Zat pewarna permukaan.
+C006#Cemara#Pine#Pohon#Tree#Pohon tinggi berdaun kecil runcing.
+C007#Cepat#Fast#Laju#Rapid#Berlaju tinggi.
+C008#Cerah#Bright#Terang#Luminous#Penuh cahaya.
+C009#Cerah ceria#Cheerful#Gembira#Joyful#Penuh semangat dan positif.
+C010#Cerita#Story#Dongeng#Tale#Rangkaian kejadian fiktif/nyata.
+C011#Cermin#Mirror#Kaca#Reflector#Permukaan pemantul bayangan.
+C012#Cinta#Love#Kasih#Affection#Perasaan sayang mendalam.
+C013#Cinta kasih#Affection#Sayang#Fondness#Perasaan hangat kepada orang lain.
+C014#Cinta sejati#True love#Kasih murni#Real affection#Perasaan tulus tanpa pamrih.
+C015#Cita-cita#Ambition#Harapan#Aspiration#Tujuan hidup yang ingin dicapai.
+C016#Cium#Kiss#Kecup#Peck#Sentuhan bibir sebagai kasih.
+C017#Coba#Try#Uji#Attempt#Melakukan percobaan.
+C018#Cuaca#Weather#Iklim#Climate#Kondisi atmosfer harian.
+C019#Cukup#Enough#Memadai#Sufficient#Tidak kurang atau lebih.
+C020#Curiga#Suspicious#Syak#Doubtful#Merasa ada yang tidak beres.
+D001#Dalam#Deep#Jauh#Profound#Berjarak ke bawah.
+D002#Damai#Peace#Tenang#Calm#Tidak ada konflik.
+D003#Darah#Blood#Plasma#Hemoglobin#Cairan merah dalam tubuh.
+D004#Datang#Come#Tiba#Arrive#Bergerak mendekat.
+D005#Daun#Leaf#Lembaran#Foliage#Bagian tumbuhan berwarna hijau.
+D006#Dekat#Near#Hampir#Close#Jarak pendek.
+D007#Dengar#Hear#Dengar#Listen#Menerima suara dengan telinga.
+D008#Deras#Heavy#Laju#Torrent#Mengalir cepat dan kuat.
+D009#Desa#Village#Kampung#Hamlet#Wilayah kecil perdesaan.
+D010#Dewasa#Adult#Matang#Mature#Sudah berkembang secara penuh.
+D011#Dinding#Wall#Tembok#Barrier#Pemisah antar ruang.
+D012#Dingin#Cold#Sejuk#Chilly#Bersuhu rendah.
+D013#Doa#Prayer#Permohonan#Supplication#Ucapan kepada Tuhan.
+D014#Domba#Sheep#Kambing#Lamb#Hewan ternak berbulu tebal.
+D015#Dosa#Sin#Kesalahan#Wrong#Pelanggaran moral atau agama.
+D016#Duduk#Sit#Duduk#Seat#Posisi tubuh saat menempel kursi.
+D017#Duka#Sorrow#Sedih#Grief#Perasaan kehilangan atau kesedihan.
+D018#Dunia#World#Bumi#Earth#Tempat hidup manusia.
+D019#Durian#Durian#Buah tajam#Thorny fruit#Buah tropis dengan kulit berduri.
+D020#Dusta#Lie#Kebohongan#Falsehood#Pernyataan tidak benar.
+E001#Editor#Editor#Penyunting#Reviser#Orang yang menyusun dan memperbaiki tulisan.
+E002#Edukasi#Education#Pendidikan#Learning#Proses mendapatkan ilmu.
+E003#Efek#Effect#Dampak#Impact#Akibat dari suatu hal.
+E004#Efisien#Efficient#Hemat#Economical#Menggunakan sumber daya sebaik mungkin.
+E005#Ego#Ego#Diri#Self#Perasaan diri sendiri penting.
+E006#Ekonomi#Economy#Keuangan#Finance#Sistem pengelolaan uang dan sumber daya.
+E007#Ekor#Tail#Buntut#Appendage#Bagian belakang hewan.
+E008#Eksistensi#Existence#Keberadaan#Being#Keadaan ada.
+E009#Eksklusif#Exclusive#Khusus#Special#Terbatas untuk kelompok tertentu.
+E010#Eksperimen#Experiment#Percobaan#Test#Proses mencoba sesuatu.
+E011#Ekspor#Export#Pengiriman#Shipment#Pengiriman barang ke luar negeri.
+E012#Ekspresi#Expression#Mimik#Facial expression#Wujud perasaan di wajah.
+E013#Elang#Eagle#Rajawali#Hawk#Burung pemangsa besar.
+E014#Emas#Gold#Logam mulia#Precious metal#Logam berharga berwarna kuning.
+E015#Emosi#Emotion#Perasaan#Feeling#Reaksi psikologis.
+E016#Enak#Delicious#Lezat#Tasty#Memiliki rasa yang menyenangkan.
+E017#Energi#Energy#Tenaga#Power#Kekuatan untuk melakukan kerja.
+E018#Es#Ice#Beku#Frozen#Air yang membeku.
+E019#Estetika#Aesthetic#Keindahan#Beauty#Ilmu tentang keindahan.
+E020#Etika#Ethics#Tata krama#Morality#Aturan perilaku baik.
+F001#Fakta#Fact#Kenyataan#Reality#Hal yang benar-benar terjadi.
+F002#Fakta ilmiah#Scientific fact#Data#Verified truth#Hal yang terbukti secara sains.
+F003#Fantasi#Fantasy#Khayalan#Imagination#Cerita imajinatif.
+F004#Fasilitas#Facility#Sarana#Amenity#Alat bantu kegiatan.
+F005#Fauna#Fauna#Hewan#Animal life#Kehidupan binatang.
+F006#Fenomena#Phenomenon#Kejadian#Event#Sesuatu yang menarik perhatian.
+F007#Festival#Festival#Perayaan#Celebration#Kegiatan meriah.
+F008#Fiksi#Fiction#Khayalan#Imaginary#Cerita tidak nyata.
+F009#Film#Movie#Gambar bergerak#Cinema#Cerita dalam bentuk visual.
+F010#Filosofi#Philosophy#Pemikiran#Ideology#Ilmu berpikir logis.
+F011#Fisika#Physics#Ilmu fisik#Science#Studi tentang alam dan energi.
+F012#Fleksibel#Flexible#Lentur#Adaptable#Mudah disesuaikan.
+F013#Flora#Flora#Tanaman#Plant life#Kehidupan tumbuhan.
+F014#Fobia#Phobia#Takut berlebihan#Irrational fear#Ketakutan tidak wajar.
+F015#Fokus#Focus#Konsentrasi#Concentration#Pemusatan perhatian.
+F016#Formal#Formal#Resmi#Official#Sesuai aturan.
+F017#Formulir#Form#Lembar isian#Document#Kertas untuk mengisi data.
+F018#Foto#Photo#Gambar#Picture#Hasil tangkapan cahaya.
+F019#Frasa#Phrase#Ungkapan#Expression#Gabungan kata tanpa predikat.
+F020#Fungsi#Function#Peran#Role#Tugas atau tujuan sesuatu.
+G001#Galau#Confused#Bimbang#Troubled#Tidak tenang pikirannya.
+G002#Gambar#Picture#Lukisan#Image#Hasil visualisasi.
+G003#Gantung#Hang#Tergantung#Suspend#Tersisa di udara.
+G004#Garam#Salt#Asin#Sodium#Bumbu dari laut.
+G005#Garis#Line#Tarikan#Stroke#Jejak lurus.
+G006#Garis besar#Outline#Rangkuman#Summary#Inti pokok.
+G007#Gatal#Itchy#Rasa ingin garuk#Pruritus#Sensasi mengganggu kulit.
+G008#Gelas#Glass#Cangkir#Cup#Wadah minum dari kaca.
+G009#Gembira#Happy#Senang#Joyful#Perasaan bahagia.
+G010#Gempa#Earthquake#Getaran bumi#Seismic#Goyangan tanah mendadak.
+G011#Gendang#Drum#Perkusi#Percussion#Alat musik pukul.
+G012#Genggam#Grasp#Pegang#Hold#Menjepit dengan tangan.
+G013#Gigi#Teeth#Taring#Molars#Alat kunyah dalam mulut.
+G014#Gigi taring#Canine#Gigi tajam#Fang#Gigi runcing di depan.
+G015#Gizi#Nutrition#Nutrisi#Diet#Zat untuk pertumbuhan tubuh.
+G016#Goda#Tempt#Rayu#Lure#Mengajak untuk melakukan.
+G017#Goreng#Fry#Masak minyak#Sauté#Memasak dalam minyak.
+G018#Gula#Sugar#Manis#Sweetener#Bahan rasa manis.
+G019#Gulung#Roll#Putar#Twist#Gerakan melingkar.
+G020#Gunung#Mountain#Bukit tinggi#Peak#Tanah tinggi alami.
+H001#Halus#Smooth#Lembut#Soft#Tidak kasar.
+H002#Hancur#Broken#Remuk#Shattered#Rusak parah.
+H003#Hangat#Warm#Sejuk#Cozy#Suhu sedang.
+H004#Harap#Hope#Keinginan#Wish#Kepercayaan pada masa depan.
+H005#Hari#Day#Tanggal#Date#Satuan waktu 24 jam.
+H006#Harimau#Tiger#Macan#Panthera#Hewan buas belang.
+H007#Hati#Heart#Jantung#Core#Organ tubuh atau perasaan.
+H008#Hewan#Animal#Binatang#Creature#Makhluk hidup bukan tumbuhan.
+H009#Hibur#Entertain#Senangkan#Amuse#Memberi kesenangan.
+H010#Hidangan#Dish#Makanan#Meal#Sajian makanan.
+H011#Hidup#Live#Nyawa#Alive#Keadaan bernyawa.
+H012#Hijau#Green#Daun#Verdant#Warna dedaunan.
+H013#Hilang#Lost#Lenyap#Gone#Tidak ditemukan lagi.
+H014#Hina#Despicable#Rendah#Low#Tidak terhormat.
+H015#Hitam#Black#Gelap#Dark#Warna tanpa cahaya.
+H016#Hitung#Count#Jumlah#Calculate#Menghitung angka.
+H017#Hormat#Respect#Tunduk#Honor#Penghargaan terhadap orang lain.
+H018#Hubung#Connect#Sambung#Link#Mengikat dua hal.
+H019#Hujan#Rain#Gerimis#Drizzle#Air turun dari langit.
+H020#Hutan#Forest#Rimba#Jungle#Kawasan pepohonan lebat.
+I001#Ibu#Mother#Mama#Mom#Orang tua perempuan.
+I002#Ikan#Fish#Binatang air#Aquatic animal#Hewan yang hidup di air.
+I003#Ikat#Tie#Kait#Bind#Menghubungkan dengan simpul.
+I004#Iklim#Climate#Cuaca#Weather#Kondisi cuaca jangka panjang.
+I005#Ikuti#Follow#Tiru#Imitate#Mengikuti jejak atau aturan.
+I006#Ilmu#Science#Pengetahuan#Knowledge#Informasi yang dipelajari.
+I007#Imajinasikan#Imagine#Bayangkan#Visualize#Membayangkan sesuatu dalam pikiran.
+I008#Indah#Beautiful#Cantik#Lovely#Menyenangkan untuk dilihat.
+I009#Indeks#Index#Daftar isi#List#Petunjuk letak informasi.
+I010#Industri#Industry#Pabrik#Factory#Bidang produksi barang.
+I011#Informasi#Information#Berita#Data#Data yang disampaikan.
+I012#Ingat#Remember#Kenang#Recall#Membawa kembali ke pikiran.
+I013#Injak#Step#Pijak#Tread#Menapak dengan kaki.
+I014#Inovasi#Innovation#Pembaharuan#Reform#Ide baru yang diterapkan.
+I015#Insting#Instinct#Naluri#Impulse#Reaksi alami tanpa dipikirkan.
+I016#Inti#Core#Pusat#Center#Bagian utama dari sesuatu.
+I017#Iri#Jealous#Cemburu#Envy#Tidak senang dengan keberhasilan orang lain.
+I018#Iris#Slice#Potong tipis#Cut#Memotong menjadi bagian kecil.
+I019#Isi#Content#Muatan#Filling#Apa yang ada di dalam.
+I020#Istirahat#Rest#Rehat#Break#Waktu untuk berhenti sejenak.
+J001#Jaga#Guard#Awasi#Watch#Menjaga sesuatu agar tetap aman.
+J002#Jahat#Evil#Buruk#Wicked#Tidak baik dalam perilaku.
+J003#Jaket#Jacket#Baju luar#Coat#Pakaian luar pelindung tubuh.
+J004#Jalan#Street#Jalur#Road#Tempat kendaraan melaju.
+J005#Jam#Clock#Waktu#Hour#Alat penunjuk waktu.
+J006#Janji#Promise#Ikrar#Vow#Ucapan kesepakatan.
+J007#Jari#Finger#Telunjuk#Digit#Bagian tangan yang kecil dan lentur.
+J008#Jaring#Net#Jala#Mesh#Alat penangkap.
+J009#Jatuh#Fall#Tumbang#Drop#Bergerak ke bawah tak terkendali.
+J010#Jauh#Far#Jarak#Distant#Tidak dekat.
+J011#Jejak#Trace#Tapak#Footprint#Tanda yang tertinggal.
+J012#Jelas#Clear#Terang#Obvious#Tidak membingungkan.
+J013#Jempol#Thumb#Ibu jari#Digit#Jari terbesar di tangan.
+J014#Jemur#Sunbathe#Keringkan#Dry#Menjemur di bawah matahari.
+J015#Jendela#Window#Kaca#Pane#Lubang tembus pandang di dinding.
+J016#Jengkel#Annoyed#Kesal#Irritated#Perasaan kesal ringan.
+J017#Jernih#Clear#Bening#Pure#Tidak keruh atau kotor.
+J018#Jiwa#Soul#Roh#Spirit#Bagian tidak berwujud dari manusia.
+J019#Jual#Sell#Dagangkan#Trade#Menawarkan barang untuk dibeli.
+J020#Judul#Title#Nama#Heading#Nama dari sebuah karya.
+K001#Kabar#News#Berita#Report#Informasi terkini.
+K002#Kabar baik#Good news#Berita bagus#Positive info#Informasi menyenangkan.
+K003#Kaca#Glass#Cermin#Pane#Benda bening untuk melihat tembus.
+K004#Kaki#Leg#Tungkai#Limb#Anggota tubuh untuk berjalan.
+K005#Kasur#Mattress#Tempat tidur#Bed#Tempat untuk tidur.
+K006#Kata#Word#Ucapan#Term#Unit bahasa bermakna.
+K007#Kayu#Wood#Pohon#Lumber#Bahan bangunan dari pohon.
+K008#Kebun#Garden#Taman#Yard#Tempat menanam.
+K009#Kecil#Small#Mini#Tiny#Berkuran sedikit.
+K010#Kedamaian#Peacefulness#Ketenangan#Tranquility#Keadaan tenang tanpa konflik.
+K011#Kemarahan#Anger#Amarah#Rage#Perasaan marah hebat.
+K012#Keras#Hard#Kaku#Firm#Tidak lunak.
+K013#Kering#Dry#Tak basah#Arid#Tanpa air.
+K014#Kertas#Paper#Lembar#Sheet#Bahan tulis putih.
+K015#Kopi#Coffee#Minuman#Caffeine#Minuman dari biji kopi.
+K016#Kotor#Dirty#Jorok#Filthy#Tidak bersih.
+K017#Kuda#Horse#Tunggangan#Steed#Hewan berkaki empat.
+K018#Kunci#Key#Pengait#Unlocker#Alat membuka gembok.
+K019#Kuning#Yellow#Emas#Amber#Warna cerah seperti pisang.
+K020#Kuningan#Brass#Logam campuran#Alloy#Campuran logam kuning.
+L001#Lagu#Song#Nyanyian#Melody#Suara berirama.
+L002#Lambat#Slow#Pelan#Sluggish#Tidak cepat.
+L003#Langit#Sky#Awan#Heavens#Bagian atas bumi yang terlihat biru.
+L004#Langka#Rare#Jarang#Unusual#Tidak sering ditemukan.
+L005#Lantai#Floor#Dasar ruangan#Ground#Bagian bawah bangunan.
+L006#Lapar#Hungry#Lemah#Starving#Keinginan untuk makan.
+L007#Laut#Sea#Samudra#Ocean#Air asin luas.
+L008#Lawan#Opponent#Musuh#Enemy#Pihak yang bertentangan.
+L009#Lebar#Wide#Luas#Broad#Dimensi besar sisi ke sisi.
+L010#Lelah#Tired#Lemas#Fatigued#Merasa kehabisan tenaga.
+L011#Lemah#Weak#Tak kuat#Feeble#Tidak memiliki tenaga.
+L012#Lemari#Cupboard#Almari#Cabinet#Tempat menyimpan barang.
+L013#Lembut#Soft#Halus#Smooth#Tidak kasar.
+L014#Lilin#Candle#Pelita#Waxlight#Alat penerang dari lilin.
+L015#Lingkaran#Circle#Bulat#Round#Bentuk bulat sempurna.
+L016#Lintas#Cross#Seberangi#Traverse#Bergerak melewati.
+L017#Listrik#Electricity#Daya#Power#Energi yang mengalir.
+L018#Luka#Wound#Cedera#Injury#Kerusakan tubuh.
+L019#Lupa#Forget#Alpa#Unaware#Tidak ingat lagi.
+L020#Lurus#Straight#Tegak#Direct#Tanpa lekuk.
+M001#Maju#Forward#Laju#Advance#Bergerak ke depan.
+M002#Makan#Eat#Santap#Consume#Memasukkan makanan ke dalam tubuh.
+M003#Malam#Night#Petang#Evening#Waktu setelah matahari terbenam.
+M004#Masuk#Enter#Memasuki#Go in#Bergerak ke dalam.
+M005#Mata#Eye#Penglihatan#Sight#Organ untuk melihat.
+M006#Matahari#Sun#Mentari#Solar#Bintang pusat tata surya.
+M007#Matahari terbit#Sunrise#Fajar#Dawn#Saat matahari mulai muncul.
+M008#Melihat#See#Menatap#View#Mengamati dengan mata.
+M009#Memasak#Cook#Masakkan#Prepare#Mengolah makanan.
+M010#Menangis#Cry#Teteskan air mata#Weep#Mengeluarkan air mata karena emosi.
+M011#Mengajar#Teach#Didik#Educate#Memberikan pelajaran.
+M012#Mengerti#Understand#Paham#Comprehend#Memahami sesuatu.
+M013#Menulis#Write#Catat#Record#Membuat tulisan.
+M014#Merah#Red#Darah#Crimson#Warna seperti darah.
+M015#Mimpi#Dream#Angan#Vision#Gambaran dalam tidur.
+M016#Minum#Drink#Teguk#Sip#Mengonsumsi cairan.
+M017#Mobil#Car#Kendaraan#Vehicle#Alat transportasi beroda.
+M018#Mudah#Easy#Gampang#Simple#Tidak sulit dilakukan.
+M019#Mulut#Mouth#Bibir#Oral#Bagian tubuh untuk makan dan berbicara.
+M020#Mundur#Backward#Surut#Retreat#Bergerak ke belakang.
+N001#Nada#Tone#Irama#Pitch#Suara dalam musik.
+N002#Naik#Up#Meninggi#Ascend#Bergerak ke atas.
+N003#Nama#Name#Julukan#Title#Identitas seseorang atau sesuatu.
+N004#Nangka#Jackfruit#Buah besar#Fruit#Buah tropis besar dan manis.
+N005#Nanti#Later#Kelak#Afterwards#Waktu setelah ini.
+N006#Napas#Breath#Tarikan udara#Inhale#Udara masuk dan keluar dari paru-paru.
+N007#Napas panjang#Deep breath#Tarikan napas dalam#Inhale#Menarik napas dalam-dalam.
+N008#Nasi#Rice#Beras masak#Cooked rice#Makanan pokok di Indonesia.
+N009#Negara#Country#Bangsa#Nation#Wilayah berdaulat.
+N010#Nenek#Grandmother#Oma#Granny#Ibu dari orang tua.
+N011#Niat#Intention#Tujuan#Purpose#Keinginan dalam hati.
+N012#Nikmat#Delicious#Enak#Tasty#Rasa menyenangkan saat makan.
+N013#Noda#Stain#Kotoran#Smudge#Tanda kotor pada benda.
+N014#Nol#Zero#Kosong#None#Angka tanpa nilai.
+N015#Nonton#Watch#Tonton#View#Melihat pertunjukan atau tayangan.
+N016#Nyala#Flame#Api#Fire#Cahaya atau api yang menyala.
+N017#Nyamuk#Mosquito#Serangga#Insect#Hewan kecil pengisap darah.
+N018#Nyaring#Loud#Keras#Noisy#Suara tinggi dan kuat.
+N019#Nyata#Real#Benar#Actual#Sesuatu yang bisa dilihat atau dibuktikan.
+N020#Nyeri#Pain#Sakit#Ache#Rasa tidak nyaman pada tubuh.
+O001#Obat#Medicine#Pengobatan#Cure#Zat untuk menyembuhkan penyakit.
+O002#Oksigen#Oxygen#Udara#Air#Gas yang dibutuhkan untuk bernapas.
+O003#Olahraga#Sport#Senam#Exercise#Aktivitas fisik untuk kebugaran.
+O004#Oleh#By#Lewat#Via#Melalui perantara atau sebab.
+O005#Oli#Oil#Pelumas#Lubricant#Zat cair untuk mesin.
+O006#Ombak#Wave#Gelombang#Surf#Gerakan air laut.
+O007#Omong#Talk#Ngobrol#Chat#Berbicara santai.
+O008#Operasi#Surgery#Bedah#Procedure#Tindakan medis besar.
+O009#Opsi#Option#Pilihan#Choice#Alternatif keputusan.
+O010#Orang#Person#Manusia#Human#Individu manusia.
+O011#Oranye#Orange#Warna jingga#Tangerine#Warna campuran merah dan kuning.
+O012#Orasi#Speech#Pidato#Talk#Berbicara di depan umum.
+O013#Organ#Organ#Bagian tubuh#Body part#Unit fungsional tubuh.
+O014#Orkes#Orchestra#Musik#Band#Kelompok musik besar.
+O015#Ornamen#Ornament#Hiasan#Decoration#Benda untuk memperindah.
+O016#Otak#Brain#Pikiran#Mind#Organ pusat sistem saraf.
+O017#Otak kanan#Right brain#Kreatif#Creative mind#Bagian otak untuk kreativitas.
+O018#Otak kiri#Left brain#Logika#Logic#Bagian otak untuk berpikir analitis.
+O019#Otoritas#Authority#Wewenang#Power#Kekuasaan atas sesuatu.
+O020#Oven#Oven#Pemanggang#Baker#Alat untuk memanggang.
+P001#Pagi#Morning#Subuh#Dawn#Waktu awal hari.
+P002#Pakaian#Clothes#Baju#Apparel#Penutup tubuh.
+P003#Panas#Hot#Hangat#Warm#Suhu tinggi.
+P004#Pasar#Market#Tempat jual beli#Bazaar#Tempat bertemunya penjual dan pembeli.
+P005#Pecah#Break#Retak#Crack#Terbelah menjadi bagian kecil.
+P006#Pekerjaan#Work#Tugas#Job#Aktivitas yang dilakukan untuk tujuan tertentu.
+P007#Pelan#Slow#Lambat#Gentle#Gerakan tidak cepat.
+P008#Pelanggaran#Violation#Kesalahan#Offense#Tindakan melawan aturan.
+P009#Peluk#Hug#Rangkul#Embrace#Merangkul dengan tangan.
+P010#Pengetahuan#Knowledge#Ilmu#Insight#Hasil belajar dan pengalaman.
+P011#Penghapus#Eraser#Penghilang#Rubber#Alat untuk menghapus tulisan.
+P012#Penyakit#Disease#Sakit#Illness#Kondisi tubuh tidak sehat.
+P013#Perasaan#Feeling#Emosi#Emotion#Keadaan batin seseorang.
+P014#Pintar#Smart#Cerdas#Intelligent#Memiliki kecerdasan tinggi.
+P015#Pintu#Door#Gerbang#Entrance#Pembuka ruang.
+P016#Piring#Plate#Wadah makan#Dish#Alat untuk menaruh makanan.
+P017#Pohon#Tree#Tumbuhan#Plant#Tanaman besar berkayu.
+P018#Pulpen#Pen#Alat tulis#Ink pen#Alat menulis dengan tinta.
+P019#Pusat#Center#Tengah#Core#Bagian utama atau tengah.
+P020#Putih#White#Cerlang#Bright#Warna bersih tanpa warna lain.
+Q001#Quadrant#Kuadran#Bagian empat#Section#Satu dari empat bagian.
+Q002#Qualification#Kualifikasi#Sertifikat#Credential#Syarat dan kemampuan.
+Q003#Quality#Kualitas#Mutu#Grade#Tingkat mutu sesuatu.
+Q004#Quantum#Kuantum#Jumlah kecil#Portion#Unit fisika terkecil.
+Q005#Quarantine#Karantina#Isolasi#Isolation#Penahanan untuk pencegahan.
+Q006#Quarter#Perempat#Bagian#One fourth#Satu bagian dari empat.
+Q007#Quartz#Kuarsa#Mineral#Mineral#Mineral kristal.
+Q008#Quasar#Quasar#Benda langit#Celestial object#Sumber cahaya jauh di angkasa.
+Q009#Quench#Mendinginkan#Memadamkan#Cool down#Mengurangi panas.
+Q010#Query#Query#Pertanyaan#Request#Permintaan data.
+Q011#Queue#Antrian#Barisan#Line#Susunan menunggu giliran.
+Q012#Quibble#Bantahan kecil#Argumen kecil#Minor argument#Argumen sepele.
+Q013#Quick#Cepat#Lancar#Fast#Bergerak dengan cepat.
+Q014#Quiet#Tenang#Diam#Silent#Suasana tanpa suara.
+Q015#Quill#Bulu pena#Pena kuno#Feather pen#Alat tulis dari bulu.
+Q016#Quintet#Kuintet#Grup lima#Group of five#Grup musik lima anggota.
+Q017#Quiz#Kuis#Ujian kecil#Test#Tes singkat.
+Q018#Quota#Kuota#Jatah#Limit#Batas jumlah yang diizinkan.
+Q019#Quotation#Kutipan#Sitat#Quote#Pengambilan teks.
+Q020#Quotation marks#Tanda kutip#Simbol#Punctuation#Tanda untuk kutipan.
+R001#Raja#King#Penguasa#Monarch#Pemimpin kerajaan.
+R002#Rambut#Hair#Bulu kepala#Strand#Serabut pada kepala.
+R003#Rantai#Chain#Rangkaian#Link#Susunan logam.
+R004#Rapi#Neat#Teratur#Tidy#Bersih dan teratur.
+R005#Rasa#Taste#Perasaan#Flavor#Sensasi makan atau emosi.
+R006#Rasa sakit#Pain#Sakit#Ache#Ketidaknyamanan fisik.
+R007#Reaksi#Reaction#Tanggapan#Response#Balasan terhadap sesuatu.
+R008#Rencana#Plan#Strategi#Scheme#Persiapan untuk masa depan.
+R009#Rendah#Low#Kecil#Short#Tidak tinggi.
+R010#Resep#Recipe#Petunjuk masak#Instructions#Panduan membuat makanan.
+R011#Ribut#Noise#Kebisingan#Noise#Suara gaduh.
+R012#Rindu#Miss#Kangen#Longing#Perasaan ingin bertemu.
+R013#Robot#Robot#Mesin#Machine#Alat otomatis.
+R014#Roda#Wheel#Bagian kendaraan#Disk#Bagian berbentuk lingkaran.
+R015#Rok#Skirt#Pakaian#Clothing#Pakaian wanita bagian bawah.
+R016#Ruang#Room#Tempat#Space#Area dalam bangunan.
+R017#Ruang kelas#Classroom#Tempat belajar#Learning room#Tempat siswa belajar.
+R018#Rumah#House#Bangunan#Home#Tempat tinggal.
+R019#Rumah sakit#Hospital#Tempat berobat#Clinic#Tempat untuk pasien.
+R020#Rumput#Grass#Tumbuhan#Herb#Tanaman kecil di tanah.
+S001#Sakit#Sick#Sakit#Ill#Kondisi tubuh tidak sehat.
+S002#Samping#Side#Sisi#Flank#Bagian di sebelah.
+S003#Sapi#Cow#Hewan ternak#Cattle#Hewan penghasil susu.
+S004#Sapu#Broom#Alat kebersihan#Brush#Alat untuk menyapu.
+S005#Satu#One#Angka satu#Number one#Angka pertama.
+S006#Sekolah#School#Tempat belajar#Education place#Tempat pendidikan.
+S007#Selesai#Finish#Selesai#Complete#Berakhir.
+S008#Senang#Happy#Gembira#Joyful#Perasaan bahagia.
+S009#Senyawa#Compound#Gabungan#Mixture#Campuran zat.
+S010#Senyum#Smile#Tersenyum#Grin#Ekspresi bahagia.
+S011#Sepatu#Shoe#Alas kaki#Footwear#Pelindung kaki.
+S012#Serang#Attack#Menerjang#Assault#Melakukan serangan.
+S013#Sinar#Ray#Cahaya#Beam#Pancaran cahaya.
+S014#Sisir#Comb#Alat rambut#Hair tool#Alat untuk merapikan rambut.
+S015#Suara#Sound#Bunyi#Noise#Gelombang yang didengar.
+S016#Suka#Like#Gemari#Love#Menyukai sesuatu.
+S017#Sungai#River#Aliran air#Stream#Aliran air besar.
+S018#Surat#Letter#Dokumen#Mail#Tulisan resmi.
+S019#Susu#Milk#Minuman#Dairy#Cairan dari sapi.
+S020#Susu formula#Formula milk#Minuman bayi#Baby milk#Minuman pengganti ASI.
+T001#Taman#Park#Kebun#Garden#Tempat terbuka untuk rekreasi.
+T002#Tanah#Soil#Bumi#Earth#Lapisan permukaan bumi.
+T003#Tangan#Hand#Lengan#Arm#Bagian tubuh untuk menggenggam.
+T004#Tari#Dance#Menari#Performance#Gerakan mengikuti musik.
+T005#Tebal#Thick#Kental#Dense#Ukuran besar dari sisi.
+T006#Telinga#Ear#Indera pendengaran#Auditory organ#Bagian untuk mendengar.
+T007#Telpon#Phone#Telepon#Telephone#Alat komunikasi.
+T008#Telur#Egg#Benda bulat#Ovum#Bentuk reproduksi hewan.
+T009#Teman#Friend#Sahabat#Buddy#Orang dekat.
+T010#Tembak#Shoot#Menembak#Fire#Mengeluarkan peluru.
+T011#Tepat#Exact#Presisi#Accurate#Sesuai dengan yang diharapkan.
+T012#Terlalu#Too much#Berlebihan#Excess#Melebihi batas.
+T013#Terlambat#Late#Tidak tepat waktu#Delayed#Datang setelah waktu.
+T014#Tersenyum#Smile#Tersenyum#Grin#Ekspresi wajah.
+T015#Tetes#Drop#Tetesan#Drip#Cairan kecil.
+T016#Tikus#Mouse#Hewan kecil#Rodent#Hewan pengerat kecil.
+T017#Tinggi#Tall#Panjang#High#Berukuran besar ke atas.
+T018#Tingkat#Level#Lapis#Stage#Tahapan.
+T019#Tulis#Write#Menulis#Record#Membuat catatan.
+T020#Tutup#Close#Menutup#Shut#Menghalangi akses.
+U001#Uang#Money#Duit#Cash#Alat tukar dalam ekonomi.
+U002#Ucap#Say#Bicara#Speak#Mengeluarkan kata.
+U003#Udah#Sudah#Telah#Already#Kondisi selesai.
+U004#Udang#Shrimp#Krill#Seafood#Hewan laut kecil.
+U005#Udang galah#Giant prawn#Udang besar#Big shrimp#Udang besar air tawar.
+U006#Udara#Air#Atmosfer#Air#Gas yang kita hirup.
+U007#Udara dingin#Cold air#Angin dingin#Cool air#Udara dengan suhu rendah.
+U008#Udara panas#Hot air#Angin panas#Warm air#Udara dengan suhu tinggi.
+U009#Udara segar#Fresh air#Angin bersih#Clean air#Udara yang bersih dan sehat.
+U010#Ujian#Exam#Tes#Test#Penilaian akademik.
+U011#Ujung#End#Tepi#Tip#Bagian paling luar.
+U012#Ukir#Carve#Pahat#Engrave#Mengukir benda.
+U013#Ukuran#Size#Besar kecil#Dimension#Panjang atau volume sesuatu.
+U014#Ulang#Repeat#Kembali#Redo#Melakukan kembali.
+U015#Ular#Snake#Reptil#Serpent#Hewan melata tanpa kaki.
+U016#Umur#Age#Usia#Years#Lama hidup seseorang.
+U017#Unik#Unique#Istimewa#Special#Berbeda dari yang lain.
+U018#Urat#Vein#Pembuluh#Blood vessel#Pembuluh darah.
+U019#Usaha#Effort#Kerja#Work#Upaya melakukan sesuatu.
+U020#Utara#North#Arah#Direction#Salah satu arah mata angin.
+V001#Vaksin#Vaccine#Imunisasi#Immunization#Zat untuk kekebalan tubuh.
+V002#Valid#Valid#Sah#Valid#Berlaku atau sah.
+V003#Valve#Katup#Pengatur aliran#Valve#Bagian pengatur aliran.
+V004#Vanila#Vanilla#Rasa#Flavor#Rasa dari tanaman vanilla.
+V005#Variasi#Variation#Perbedaan#Difference#Perubahan bentuk.
+V006#Vegetarian#Vegetarian#Pengikut sayur#Plant eater#Orang yang tidak makan daging.
+V007#Vektor#Vector#Arah#Direction#Besaran berarah.
+V008#Veteran#Veteran#Pahlawan#Ex-soldier#Orang yang sudah purna tugas militer.
+V009#Vibrasi#Vibration#Getaran#Tremor#Gerakan berulang.
+V010#Video#Video#Rekaman#Recording#Gambar bergerak.
+V011#VIP#VIP#Orang penting#Important person#Orang sangat penting.
+V012#Virus#Virus#Mikroba#Microbe#Organisme penyebab penyakit.
+V013#Virus komputer#Computer virus#Malware#Malicious software#Program jahat komputer.
+V014#Visi#Vision#Pandangan#View#Tujuan jangka panjang.
+V015#Vitamin#Vitamin#Nutrisi#Nutrient#Zat yang dibutuhkan tubuh.
+V016#Vokal#Vocal#Suara#Voice#Suara yang dihasilkan dari mulut.
+V017#Volum#Volume#Kapasitas#Capacity#Isi ruang.
+V018#Volume musik#Music volume#Kerasnya suara#Sound level#Tingkat keras suara.
+V019#Voucher#Voucher#Kupon#Coupon#Tiket potongan harga.
+V020#Vulkan#Volcano#Gunung berapi#Volcano#Gunung yang mengeluarkan lava.
+W001#Wajah#Face#Muka#Face#Bagian depan kepala.
+W002#Wajib#Mandatory#Harus#Compulsory#Kewajiban.
+W003#Wakil#Representative#Pengganti#Deputy#Orang pengganti.
+W004#Waktu#Time#Jam#Time#Ukuran durasi.
+W005#Waktu kerja#Working hours#Jam kerja#Office hours#Durasi kerja.
+W006#Waktu malam#Nighttime#Malam hari#Night#Waktu setelah gelap.
+W007#Waktu siang#Daytime#Siang hari#Day#Waktu terang.
+W008#Wali#Guardian#Penjaga#Protector#Orang yang menjaga.
+W009#Wali kota#Mayor#Pemimpin kota#City leader#Pemimpin daerah kota.
+W010#Wangi#Fragrant#Harum#Aromatic#Bau enak.
+W011#Warisan#Inheritance#Pusaka#Legacy#Harta yang diturunkan.
+W012#Warna#Color#Warna#Color#Sifat cahaya yang terlihat.
+W013#Warna dasar#Primary color#Warna utama#Basic color#Warna pokok.
+W014#Warna-warni#Colorful#Berwarna#Multicolor#Memiliki banyak warna.
+W015#Warta#News#Berita#News#Informasi terbaru.
+W016#Wesel#Draft#Surat berharga#Bill#Dokumen keuangan.
+W017#Wilayah#Area#Daerah#Region#Bagian geografis.
+W018#Wisata#Tourism#Pariwisata#Travel#Aktivitas berkunjung.
+W019#Wujud#Form#Bentuk#Shape#Penampakan.
+W020#Wujud fisik#Physical form#Bentuk nyata#Physical shape#Bentuk yang bisa dilihat.
+X001#X-ray#Sinar X#Rontgen#Radiation#Sinar untuk melihat dalam tubuh.
+X002#X-ray image#Gambar sinar X#Rontgen#X-ray picture#Gambar medis.
+X003#Xanthic#Xanthic#Kuning#Yellowish#Berwarna kuning.
+X004#Xenobiotic#Xenobiotic#Zat asing#Foreign substance#Zat asing dalam tubuh.
+X005#Xenogenesis#Xenogenesis#Asal asing#Alien origin#Asal-usul dari luar.
+X006#Xenograft#Xenograft#Transplantasi asing#Foreign transplant#Transplantasi dari spesies lain.
+X007#Xenolith#Xenolith#Batuan asing#Foreign rock#Fragmen batuan asing.
+X008#Xenon#Xenon#Gas mulia#Noble gas#Gas kimia langka.
+X009#Xenon lamp#Lampu xenon#Lampu gas#Gas lamp#Lampu berbasis gas xenon.
+X010#Xenophobia#Xenophobia#Ketakutan pada orang asing#Fear of foreigners#Ketakutan terhadap orang luar.
+X011#Xerophyte#Xerophyte#Tanaman kering#Dry plant#Tanaman tahan kering.
+X012#Xerox#Xerox#Fotokopi#Photocopy#Salinan dokumen.
+X013#Xiphoid#Xiphoid#Tulang dada#Sternum#Bagian tulang dada.
+X014#Xylitol#Xylitol#Pemanis#Sweetener#Pemanis alami.
+X015#Xylography#Xylography#Cetak kayu#Woodcut printing#Teknik cetak kayu.
+X016#Xylophone#Xylophone#Alat musik#Musical instrument#Alat musik pukul.
+X017#Xylophone music#Musik xylophone#Musik alat musik#Music instrument#Musik dari xylophone.
+X018#Xylose#Xylose#Gula#Sugar#Jenis gula.
+Y001#Yaitu#That is#Yakni#That is#Penjelasan.
+Y002#Yakin#Sure#Pasti#Certain#Keyakinan kuat.
+Y003#Yankee#Yankee#Julukan#Nickname#Julukan untuk orang Amerika.
+Y004#Yara#Yara#Luka#Wound#Luka terbuka.
+Y005#Yayasan#Foundation#Lembaga#Institution#Organisasi sosial.
+Y006#Yayasan pendidikan#Educational foundation#Lembaga pendidikan#Educational institution#Organisasi pendidikan.
+Y007#Yayasan sosial#Social foundation#Lembaga sosial#Social institution#Organisasi sosial.
+Y008#Yel-yel#Cheer#Teriakan#Shout#Teriakan semangat.
+Y009#Yod#Yod#Huruf#Letter#Huruf dalam alfabet Ibrani.
+Y010#Yodium#Iodine#Zat kimia#Chemical element#Elemen kimia.
+Y011#Yoga#Yoga#Senam#Exercise#Latihan fisik dan mental.
+Y012#Yogi#Yogi#Praktisi yoga#Yoga practitioner#Orang yang melakukan yoga.
+Y013#Yunani#Greece#Negara#Country#Negara di Eropa.
+Y014#Yunior#Junior#Pemula#Beginner#Tingkat awal.
+Y015#Yurisprudensi#Jurisprudence#Ilmu hukum#Law science#Studi hukum.
+Y016#Yusuf#Yusuf#Nama#Name#Nama laki-laki.
+Z001#Zaman#Era#Masa#Period#Periode waktu.
+Z002#Zaman batu#Stone age#Masa prasejarah#Prehistoric era#Masa sebelum tulisan.
+Z003#Zaman besi#Iron age#Masa logam#Metal era#Masa penggunaan besi.
+Z004#Zaman es#Ice age#Masa dingin#Cold era#Periode es di bumi.
+Z005#Zamrud#Emerald#Permata hijau#Jade#Batu permata hijau yang termasuk jenis mineral beril
+Z006#Zat#Substance#Bahan#Material#Materi penyusun.
+Z007#Zat besi#Iron#Elemen#Element#Elemen kimia.
+Z008#Zebra#Zebra#Hewan#Animal#Hewan belang hitam putih.
+Z009#Ziarah#Pilgrimage#Kunjungan#Visit#Perjalanan ke tempat suci.
+Z010#Ziarah wali#Pilgrimage wali#Kunjungan wali#Saint pilgrimage#Perjalanan ke makam wali.
+Z011#Zikir#Dhikr#Doa#Prayer#Mengingat Tuhan.
+Z012#Zink#Zinc#Elemen#Element#Elemen kimia.
+Z013#Zodiak#Zodiac#Rasi bintang#Constellation#Rasi bintang berdasarkan bulan kelahiran.
+Z014#Zona#Zone#Wilayah#Area#Bagian tertentu.
+Z015#Zona hijau#Green zone#Wilayah hijau#Green area#Wilayah tanaman.
+Z016#Zona industri#Industrial zone#Wilayah industri#Industrial area#Wilayah khusus industri.
+Z017#Zona waktu#Time zone#Wilayah waktu#Time region#Bagian wilayah waktu.
+Z018#Zonasi#Zoning#Pengaturan wilayah#Regulation#Pengaturan pembagian wilayah.

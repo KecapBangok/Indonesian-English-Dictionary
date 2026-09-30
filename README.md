@@ -194,10 +194,6 @@ This project was developed as part of the **Data Structures** course at BINUS Un
 * Jonathan Elloy Saputra
 * Stevanus Sunandar
 
-## Screenshots
-
-Screenshots of the application can be found in the [`screenshots`](./screenshots) directory.
-
 ## Project Status
 
 Completed as an academic project.
